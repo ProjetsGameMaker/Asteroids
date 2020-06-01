@@ -1,0 +1,1 @@
+if(!other.is_invicible) instance_destroy();
